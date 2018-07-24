@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Camarografia</string>
+    <string name="token">Token</string>
+    <string name="fecha">Fecha</string>
+    <string name="hora">Hora</string>
+    <string name="respuestatoken">f978ba2de2546f978b8ff1f93920603d11af5f978b</string>
+    <string name="ip">IP</string>
+    <string name="Post">Enviar</string>
+    <string name="uri">URI</string>
+    <string name="respuesta">Respuesta</string>
+    <string name="Probar_Red">Probar Internet</string>
+</resources>
